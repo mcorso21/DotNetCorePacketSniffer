@@ -1,0 +1,13 @@
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\bin\Debug\netcoreapp3.1\PacketSniffer.exe
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\bin\Debug\netcoreapp3.1\PacketSniffer.deps.json
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\bin\Debug\netcoreapp3.1\PacketSniffer.runtimeconfig.json
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\bin\Debug\netcoreapp3.1\PacketSniffer.runtimeconfig.dev.json
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\bin\Debug\netcoreapp3.1\PacketSniffer.dll
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\bin\Debug\netcoreapp3.1\PacketSniffer.pdb
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\obj\Debug\netcoreapp3.1\PacketSniffer.csprojAssemblyReference.cache
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\obj\Debug\netcoreapp3.1\PacketSniffer.csproj.CoreCompileInputs.cache
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\obj\Debug\netcoreapp3.1\PacketSniffer.AssemblyInfoInputs.cache
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\obj\Debug\netcoreapp3.1\PacketSniffer.AssemblyInfo.cs
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\obj\Debug\netcoreapp3.1\PacketSniffer.dll
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\obj\Debug\netcoreapp3.1\PacketSniffer.pdb
+C:\Users\MichaelCorso\Desktop\DEV\PacketSniffer\PacketSniffer\obj\Debug\netcoreapp3.1\PacketSniffer.genruntimeconfig.cache
