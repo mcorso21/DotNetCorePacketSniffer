@@ -33,5 +33,5 @@
 - The out of the box the parser will create a console that asks the user which network interface to listen to and, once selected, will parse and output summaries of packets received.
 - The core of the parser only requires the IPAddress of the network interface to attach to. From there, the parser will create IPv4PacketModel objects for every packet receive.
   - My method for obtaining the IPAddress from the user can be found at Program.PromptUserForNetworkInterface
-- You can create a custom callback and pass it to PacketSniffer.StartSniffer to do whatever you want with the packet data.
-  - My callback Action that receives the parsed packets can be found at Program.callback
+- You can create a custom callback and pass it to **PacketSniffer.StartSniffer** to do whatever you want with the packet data.
+  - My callback Action that receives the parsed packets can be found at **Program.callback**
